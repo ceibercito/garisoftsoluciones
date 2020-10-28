@@ -1,2 +1,3 @@
 #Evita procesar archivos de dependencias.
 node_modules/
+*.zip
