@@ -1,0 +1,24 @@
+{
+  "name": "garisoftsoluciones",
+  "version": "1.0.0",
+  "description": "WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceibercito/garisoftsoluciones.git"
+  },
+  "author": "ceiber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceibercito/garisoftsoluciones/issues"
+  },
+  "homepage": "https://github.com/ceibercito/garisoftsoluciones#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
